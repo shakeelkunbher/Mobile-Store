@@ -1,2 +1,2 @@
 # Mobile-Store
-shakeel-mobile-store.surge.sh
+# shakeel-mobile-store.surge.sh
