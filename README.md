@@ -2,5 +2,5 @@
 Mobile Searching Logic
 
 
-# [Link](https://shakeel-mobile-store.surge.sh/) 
+# [Link](https://shakeel-mobile-store.surge.sh/){:target="_blank"}
 
